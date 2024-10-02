@@ -1,5 +1,5 @@
 ## Adaptive-FAM: *Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation*
-Created by <a href="https://github.com/sunjianxin" target="_blank">Jianxin Sun</a>, <a href="http://vis.unl.edu/~yu/" target="_blank">Hongfeng Yu</a> from University of Nebraska-Lincoln, and <a href="https://mathweb.ucsd.edu/~dlenz/" target="_blank">David Lenz</a>, <a href="https://www.mcs.anl.gov/~tpeterka/" target="_blank">Tom Peterka</a> from Argonne National Laboratory
+Created by <a href="https://sunjianxin.github.io/" target="_blank">Jianxin Sun</a>, <a href="https://cse.unl.edu/~yu/" target="_blank">Hongfeng Yu</a> from University of Nebraska-Lincoln, and <a href="https://mathweb.ucsd.edu/~dlenz/" target="_blank">David Lenz</a>, <a href="https://www.mcs.anl.gov/~tpeterka/" target="_blank">Tom Peterka</a> from Argonne National Laboratory
 
 
 ![results](https://github.com/adaptive-fam/Adaptive-FAM/blob/main/flame_blocks_small.png)
