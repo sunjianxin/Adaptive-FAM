@@ -8,8 +8,7 @@ Paper can be found <a href="https://arxiv.org/abs/2409.00184" target="_blank">he
 ### Introduction
 This repo contains the code of practicing the proposed Adaptive-FAM multi-resolution encoding and how to render the encoded micro-models for visualization.
 
-### Execution
-1. Encoding
+### Encoding
 
 Run Jupiter Notebook.
 ```bash
@@ -21,7 +20,7 @@ Run block_partition_down_sampling.ipynb for micro-blocks without ghost area.
 
 Example dataset can be downloaded from <a href="https://drive.google.com/file/d/1fFB5LpRkiVJIZ47Ckc0VCGYM_M4EU3ZX/view?usp=sharing" target="_blank">here</a>.
 
-2. Rendering
+### Rendering
 
 Get the renderer source code and follow the instruction to build.
 ```bash
