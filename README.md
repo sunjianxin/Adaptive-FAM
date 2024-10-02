@@ -22,6 +22,8 @@ Example dataset can be downloaded from <a href="https://drive.google.com/file/d/
 
 ### Rendering
 
+Proposed GPU-accelerated renderer for Adaptive-FAM encoded midro-models can be found <a href="https://github.com/sunjianxin/Adaptive-FAM-Renderer" target="_blank">here</a>.
+
 Get the renderer source code and follow the instruction to build.
 ```bash
 git clone https://github.com/sunjianxin/Adaptive-FAM-Renderer.git
