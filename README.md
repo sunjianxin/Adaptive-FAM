@@ -20,6 +20,8 @@ Run block_partition_down_sampling.ipynb for micro-blocks without ghost area.
 
 Example dataset can be downloaded from <a href="https://drive.google.com/file/d/1fFB5LpRkiVJIZ47Ckc0VCGYM_M4EU3ZX/view?usp=sharing" target="_blank">here</a>.
 
+The adaptive encoding will call the <a href="https://github.com/sunjianxin/Adaptive-FAM_mfa_utility" target="_blank">MFA encoder</a>. Follow the instruction to build it.
+
 ### Rendering
 
 Proposed GPU-accelerated renderer for Adaptive-FAM encoded midro-models can be found <a href="https://github.com/sunjianxin/Adaptive-FAM-Renderer" target="_blank">here</a>.
