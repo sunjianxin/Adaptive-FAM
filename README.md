@@ -10,6 +10,7 @@ This repo contains the code of practicing the proposed Adaptive-FAM multi-resolu
 
 ### Execution
 1. Encoding
+
 Run Jupiter Notebook:
 ```bash
 jupyter notebook
@@ -19,6 +20,7 @@ Run Adaptive-FAM.ipynb for the proposed adaptive encoding using functional appro
 Run block_partition_down_sampling.ipynb for micro-blocks without ghost area.
 
 2. Rendering
+
 Get the renderer source code and follow the instruction to build
 ```bash
 git clone https://github.com/sunjianxin/Adaptive-FAM-Renderer.git
